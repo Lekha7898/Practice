@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Release1">
+  <test thread-count="5" name="TestResults1">
+    <classes>
+      <class name="testNGprograms.AnnotationsDemo2"/>
+      <class name="testNGprograms.AnnotationsDemo1"/>
+      <class name="testNGprograms.FirstProgram"/>
+      <class name="testNGprograms.US_megabus"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="jri_scenarios.CreateAnAccount_TS01">
+      <class name="testNGprograms.US_megabus">
         <methods>
-          <include name="tc_002"/>
+          <include name="f"/>
         </methods>
-      </class> <!-- jri_scenarios.CreateAnAccount_TS01 -->
+      </class> <!-- testNGprograms.US_megabus -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
